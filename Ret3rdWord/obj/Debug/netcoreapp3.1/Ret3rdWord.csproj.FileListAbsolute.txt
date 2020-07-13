@@ -1,0 +1,12 @@
+C:\Users\RIKAR0\Desktop\Ret3rdWord\bin\Debug\netcoreapp3.1\Ret3rdWord.exe
+C:\Users\RIKAR0\Desktop\Ret3rdWord\bin\Debug\netcoreapp3.1\Ret3rdWord.deps.json
+C:\Users\RIKAR0\Desktop\Ret3rdWord\bin\Debug\netcoreapp3.1\Ret3rdWord.runtimeconfig.json
+C:\Users\RIKAR0\Desktop\Ret3rdWord\bin\Debug\netcoreapp3.1\Ret3rdWord.runtimeconfig.dev.json
+C:\Users\RIKAR0\Desktop\Ret3rdWord\bin\Debug\netcoreapp3.1\Ret3rdWord.dll
+C:\Users\RIKAR0\Desktop\Ret3rdWord\bin\Debug\netcoreapp3.1\Ret3rdWord.pdb
+C:\Users\RIKAR0\Desktop\Ret3rdWord\obj\Debug\netcoreapp3.1\Ret3rdWord.AssemblyInfoInputs.cache
+C:\Users\RIKAR0\Desktop\Ret3rdWord\obj\Debug\netcoreapp3.1\Ret3rdWord.AssemblyInfo.cs
+C:\Users\RIKAR0\Desktop\Ret3rdWord\obj\Debug\netcoreapp3.1\Ret3rdWord.csproj.CoreCompileInputs.cache
+C:\Users\RIKAR0\Desktop\Ret3rdWord\obj\Debug\netcoreapp3.1\Ret3rdWord.dll
+C:\Users\RIKAR0\Desktop\Ret3rdWord\obj\Debug\netcoreapp3.1\Ret3rdWord.pdb
+C:\Users\RIKAR0\Desktop\Ret3rdWord\obj\Debug\netcoreapp3.1\Ret3rdWord.genruntimeconfig.cache

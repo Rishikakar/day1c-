@@ -1,0 +1,13 @@
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\bin\Debug\netcoreapp3.1\NumberDivisibleBy3.exe
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\bin\Debug\netcoreapp3.1\NumberDivisibleBy3.deps.json
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\bin\Debug\netcoreapp3.1\NumberDivisibleBy3.runtimeconfig.json
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\bin\Debug\netcoreapp3.1\NumberDivisibleBy3.runtimeconfig.dev.json
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\bin\Debug\netcoreapp3.1\NumberDivisibleBy3.dll
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\bin\Debug\netcoreapp3.1\NumberDivisibleBy3.pdb
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\obj\Debug\netcoreapp3.1\NumberDivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\obj\Debug\netcoreapp3.1\NumberDivisibleBy3.AssemblyInfo.cs
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\obj\Debug\netcoreapp3.1\NumberDivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\obj\Debug\netcoreapp3.1\NumberDivisibleBy3.dll
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\obj\Debug\netcoreapp3.1\NumberDivisibleBy3.pdb
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\obj\Debug\netcoreapp3.1\NumberDivisibleBy3.genruntimeconfig.cache
+C:\Users\RIKAR0\Desktop\NumberDivisibleBy3\obj\Debug\netcoreapp3.1\NumberDivisibleBy3.csprojAssemblyReference.cache

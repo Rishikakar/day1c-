@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ret3rdWord/1.0.0": {
+        "runtime": {
+          "Ret3rdWord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ret3rdWord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

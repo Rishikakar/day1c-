@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial.csproj", "{A548CD9F-54EA-4EA1-A3BE-82CAE3B88EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A548CD9F-54EA-4EA1-A3BE-82CAE3B88EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A548CD9F-54EA-4EA1-A3BE-82CAE3B88EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A548CD9F-54EA-4EA1-A3BE-82CAE3B88EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A548CD9F-54EA-4EA1-A3BE-82CAE3B88EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97022A04-1262-492D-ADFD-D950DD15E7C2}
+	EndGlobalSection
+EndGlobal

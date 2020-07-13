@@ -1,0 +1,12 @@
+C:\Users\RIKAR0\Desktop\NameLength\bin\Debug\netcoreapp3.1\NameLength.exe
+C:\Users\RIKAR0\Desktop\NameLength\bin\Debug\netcoreapp3.1\NameLength.deps.json
+C:\Users\RIKAR0\Desktop\NameLength\bin\Debug\netcoreapp3.1\NameLength.runtimeconfig.json
+C:\Users\RIKAR0\Desktop\NameLength\bin\Debug\netcoreapp3.1\NameLength.runtimeconfig.dev.json
+C:\Users\RIKAR0\Desktop\NameLength\bin\Debug\netcoreapp3.1\NameLength.dll
+C:\Users\RIKAR0\Desktop\NameLength\bin\Debug\netcoreapp3.1\NameLength.pdb
+C:\Users\RIKAR0\Desktop\NameLength\obj\Debug\netcoreapp3.1\NameLength.AssemblyInfoInputs.cache
+C:\Users\RIKAR0\Desktop\NameLength\obj\Debug\netcoreapp3.1\NameLength.AssemblyInfo.cs
+C:\Users\RIKAR0\Desktop\NameLength\obj\Debug\netcoreapp3.1\NameLength.csproj.CoreCompileInputs.cache
+C:\Users\RIKAR0\Desktop\NameLength\obj\Debug\netcoreapp3.1\NameLength.dll
+C:\Users\RIKAR0\Desktop\NameLength\obj\Debug\netcoreapp3.1\NameLength.pdb
+C:\Users\RIKAR0\Desktop\NameLength\obj\Debug\netcoreapp3.1\NameLength.genruntimeconfig.cache
